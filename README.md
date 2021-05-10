@@ -20,31 +20,26 @@
   <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=llandkoer&repo=Amecity" alt="codestats-profile-readme" />
 </a>
 
----
 
 ## 👯 I’m looking to collaborate on:
 
 - High social impact projects, specially education related.
 
----
 
 ## 🌱 I’m currently learning:
 
 - ReactJS
 - ExpressJS
 
----
 
 ## My weekly Wakatime stats
 
 ![Luis Landkoer's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=llandkoer)
 
----
 
 ## My GitHub stats
 
 ![Luis Landkoer's GitHub stats](https://github-readme-stats.vercel.app/api?username=llandkoer&hide=contribs,issues)
 
----
 
 **⭐️ From [llandkoer](https://github.com/llandkoer)**
