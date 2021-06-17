@@ -12,10 +12,6 @@
 
 ## 👨🏽‍💻 I’m currently working on:
 
-<a href="https://github.com/llandkoer/delilah-resto">
-  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=llandkoer&repo=delilah-resto" alt="codestats-profile-readme" />
-</a>
-
 <a href="https://github.com/llandkoer/Amecity">
   <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=llandkoer&repo=Amecity" alt="codestats-profile-readme" />
 </a>
@@ -29,8 +25,10 @@
 ## 🌱 I’m currently learning:
 
 - ReactJS
-- ExpressJS
-
+- Redux
+- Webpack
+- NextJS
+- GraphQL
 
 ## My weekly Wakatime stats
 
